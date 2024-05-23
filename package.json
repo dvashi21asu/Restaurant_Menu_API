@@ -1,0 +1,22 @@
+{
+  "name": "restaurant_menu_api",
+  "version": "1.0.0",
+  "description": "This repository contains a Node.js application for a restaurant menu API using GraphQL. The project demonstrates the ability to build a simple API to serve menu data, with an emphasis on code cleanliness and problem-solving skills. The API allows fetching menu items, including details such as name, description, and price.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.19.2",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
