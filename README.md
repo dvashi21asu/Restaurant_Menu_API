@@ -12,7 +12,7 @@ This is a Node.js and GraphQL API designed to provide data for a restaurant menu
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/dvashi21asu/restaurant-menu-api.git
+   git clone https://github.com/dvashi21asu/Restaurant_Menu_API.git
    cd restaurant-menu-api
    ```
 
@@ -161,6 +161,7 @@ npm test
 - **Jest and Supertest**: Selected for testing to ensure the API works correctly and reliably.
 - **Modular Code Structure**: Followed to keep the code clean and maintainable.
 - **README Documentation**: Provided to help users easily set up, run, and test the application locally.
+
 
 
 
